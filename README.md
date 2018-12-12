@@ -1,1 +1,1 @@
-# TEDX.github.io
+# TEDx
